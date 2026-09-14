@@ -1,1 +1,1 @@
-# rr-digital-bazar
+# rr-digital-bazaar
